@@ -13,12 +13,6 @@
 - Developer **_Nodejs_**, **_ReactJs_** and **_React Native_**
 
 - 👨‍💻 website in progress...
-
-<p>
-  <br/>
-  <br/>
-  <br/>
-</p>
   
 <img
   align="right"
