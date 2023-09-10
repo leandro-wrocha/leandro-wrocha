@@ -1,4 +1,4 @@
-<h1>Olá ✋, me Leandro Rocha</h1>
+<h1>Olá ✋, me chamo Leandro Rocha</h1>
 
   <img
     align="right"
@@ -13,7 +13,7 @@
 
 - Experiência com tecnologias **_Typescript_**, **_Nestjs_**, **_ReactJs_**, **_NextJs_**, **_PHP_**, **_Laravel_**, **_Code Igniter_**, **_JQuery_**, **_MySQL_** e **_PostgreSQL_**
 
-- Estou desenvolvendo alguns projetos para iniciar no meu portifólio, até lá deem uma olhada nos repositórios:
+- Estou desenvolvendo alguns projetos para iniciar no meu portifólio, até lá fiquem de olho nestes dois repositórios:
   - <a href="https://github.com/leandro-wrocha/agendarme" target="_blank">agendarme</a>
   - <a href="https://github.com/leandro-wrocha/bookstacked" target="_blank">bookstacked</a>
 
