@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/leandro-wrocha/" target="_blank">
     <img src="https://img.shields.io/badge/leandro--wrocha-05122A?logo=linkedin&?link=https://left&www.instagram.com/leandro._wrf/" />
   </a>
-  <a href="mailto:leandro-wrocha98@gmail.com">
-    <img src="https://img.shields.io/badge/leandro--wrocha98@gmail.com-05122A?logo=gmail" >
+  <a href="mailto:leandro.wrocha98@gmail.com">
+    <img src="https://img.shields.io/badge/leandro.wrocha98@gmail.com-05122A?logo=gmail" >
   <a>
 </p>
