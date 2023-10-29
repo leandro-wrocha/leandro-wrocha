@@ -1,28 +1,24 @@
 <h1>Olá ✋, me chamo Leandro Rocha</h1>
 
-  <img
+<img
     align="right"
     height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=leandro-wrocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
-- Desenvolvedor FullStack Junior 🔥🚀
-  
-- Cursando Análise e Desenvolvimento de Sistemas - Centro Universitário UNIFAVIP Wyden 💻🚀
 
-- Estou atualmente aprofundando meu conhecimento na minha stack de trabalho 🤓
+- Desenvolvedor FullStack Junior 🔥🚀
+- Análise e Desenvolvimento de Sistemas (Pausado) - Centro Universitário UNIFAVIP Wyden 💻🚀
+
+- Foca em trilhar minha carreira backend 🤓
 
 - Experiência com tecnologias **_Typescript_**, **_Nestjs_**, **_ReactJs_**, **_NextJs_**, **_PHP_**, **_Laravel_**, **_Code Igniter_**, **_JQuery_**, **_MySQL_** e **_PostgreSQL_**
 
-- Estou desenvolvendo alguns projetos para iniciar no meu portifólio, até lá fiquem de olho nestes dois repositórios:
-  - <a href="https://github.com/leandro-wrocha/agendarme" target="_blank">agendarme</a>
-  - <a href="https://github.com/leandro-wrocha/bookstacked" target="_blank">bookstacked</a>
+- Atualmente estou aprendendo e aprofundando sobre:
+  - Nestjs (Framewwork)
+  - Java
+  - SpringBoot (Framework)
+  - Quarkus (Framework)
 
-- Meus próximos objetivos: 
-  - [ ] Organizar meus projetos no github 
-  - [ ] Atualizar os dois repositórios principais que irei está aprofundando meu conhecimento
-  - [ ] Focar no meu portifólio
-  - [ ] Adicionar meu próximo projeto, assim que finalizar o **agendarme**
-  
 <img
   align="right"
   height="180em"
@@ -30,6 +26,7 @@
 />
 
 ### Tecnologias
+
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -51,6 +48,8 @@
     <img src="https://img.shields.io/badge/leandro--wrocha-05122A?logo=linkedin&?link=https://left&www.instagram.com/leandro._wrf/" />
   </a>
   <a href="mailto:leandro.wrocha98@gmail.com">
-    <img src="https://img.shields.io/badge/leandro.wrocha98@gmail.com-05122A?logo=gmail" >
+    <img src="https://img.shields.io/badge/leandro.wrocha98@gmail.com-05122A?logo=gmail" />
   <a>
+  
+ <p>🫡 *Acessem meu site, e acompanhe minha evolução e projetos <a href="https://leandro-wrocha.com">leandro-wrocha.com</a>*</p>
 </p>
