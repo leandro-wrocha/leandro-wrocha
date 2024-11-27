@@ -1,8 +1,18 @@
 <h1>Olá 👋, me chamo Leandro Rocha</h1>
 
-- Desenvolvedor WEB.
-- Tecnlogias: **Nestjs**, **Next.js**, **Code Igniter**, **Laravel**, **CakePHP**, **MySQL** e **PostgreSQL**
-- Formando em análise e desenvolvimento de sistemas - [Centro Universitário UNIFAVIP Wyden]
+<ul>
+  <li>Desenvolvedor WEB.</li>
+  <li>
+    Tecnlogias: <strong>Nestjs</strong>, <strong>Next.js</strong>, <strong>Code Igniter</strong>, <strong>Laravel</strong>, <strong>CakePHP</strong>, <strong>MySQL</strong> e <strong>PostgreSQL</strong>
+  </li>
+  <li>Formando em análise e desenvolvimento de sistemas - [Centro Universitário UNIFAVIP Wyden]</li>
+</ul>
+
+<h3>:bulb: Projeto atual</h3>
+
+  <ul>
+    <li>scheduler-lf: Projeto open-source para realizar gerenciamento de horários, notificações e integrações com calendários.</li>
+  </ul>
 
 <h3>:books: Projetos</h3>
 
