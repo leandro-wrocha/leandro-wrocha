@@ -1,30 +1,42 @@
 <h1>Olá 👋, me chamo Leandro Rocha</h1>
 
-<ul>
-  <li>Desenvolvedor WEB.</li>
-  <li>
-    Tecnlogias: <strong>Nestjs</strong>, <strong>Next.js</strong>, <strong>Code Igniter</strong>, <strong>Laravel</strong>, <strong>CakePHP</strong>, <strong>MySQL</strong> e <strong>PostgreSQL</strong>
-  </li>
-  <li>Formando em análise e desenvolvimento de sistemas - [Centro Universitário UNIFAVIP Wyden]</li>
-</ul>
+# Olá 👋 — eu sou o Leandro Rocha
 
-<h3>:bulb: Projeto atual</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/leandro-wrocha/)
+[![Email](https://img.shields.io/badge/Email-leandro.wrocha98@gmail.com-D14836?logo=gmail)](mailto:leandro.wrocha98@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-leandro--wrocha-181717?logo=github)](https://github.com/leandro-wrocha)
 
-  <ul>
-    <li>scheduler-lf: Projeto open-source para realizar gerenciamento de horários, notificações e integrações com calendários.</li>
-  </ul>
+Sou desenvolvedor fullstack com experiência em projetos legados e aplicações web.
 
-<h3>:books: Projetos</h3>
+## Sobre
 
-:clock9: Estou resolvendo a listagem dos projetos...
+- Atualmente trabalho em projetos legados usando CodeIgniter e PHP 7.3 para uma plataforma de cursos online.
+- Estou desenvolvendo dois projetos pessoais:
+  - **shopping-cart** — estudos e experimentos sobre arquitetura de aplicações e boas práticas. ([repositório](https://github.com/leandro-wrocha/shopping-cart))
+  - **zendule** — projeto pessoal voltado para criação de negócio (MVP/marketplace/serviços). ([repositório](https://github.com/leandro-wrocha/zendule))
 
-<h3>:mailbox: Contatos</h3>
+## Tecnologias
 
-<p>
-  <a href="https://www.linkedin.com/in/leandro-wrocha/" target="_blank">
-    <img src="https://img.shields.io/badge/leandro--wrocha-05122A?logo=linkedin&?link=https://left&www.instagram.com/leandro._wrf/" />
-  </a>
-  <a href="mailto:leandro.wrocha98@gmail.com">
-    <img src="https://img.shields.io/badge/leandro.wrocha98@gmail.com-05122A?logo=gmail" />
-  <a>
-</p>
+- PHP (CodeIgniter, Laravel, CakePHP)
+- NestJS
+- Next.js
+- MySQL, PostgreSQL
+- JavaScript, jQuery
+
+Tenho familiaridade com arquiteturas legadas e com migração/modernização incremental de aplicações.
+
+## Educação
+
+- Curso: Análise e Desenvolvimento de Sistemas — Centro Universitário UNIFAVIP Wyden
+- Status: curso pausado temporariamente
+
+## Projetos
+
+- shopping-cart — repositório pessoal para estudos de arquitetura e padrões. https://github.com/leandro-wrocha/shopping-cart
+- zendule — projeto pessoal para criação de um negócio/serviço. https://github.com/leandro-wrocha/zendule
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/leandro-wrocha/
+- Email: leandro.wrocha98@gmail.com
+
