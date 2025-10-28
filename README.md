@@ -13,7 +13,7 @@ Sou desenvolvedor fullstack com experiência em projetos legados e aplicações 
 - Atualmente trabalho em projetos legados usando CodeIgniter e PHP 7.3 para uma plataforma de cursos online.
 - Estou desenvolvendo dois projetos pessoais:
   - **shopping-cart** — estudos e experimentos sobre arquitetura de aplicações e boas práticas. ([repositório](https://github.com/leandro-wrocha/shopping-cart))
-  - **zendule** — projeto pessoal voltado para criação de negócio (MVP/marketplace/serviços). ([repositório](https://github.com/leandro-wrocha/zendule))
+  - **zendule** — projeto pessoal voltado para criação de negócio (MVP/marketplace/serviços).
 
 ## Tecnologias
 
@@ -33,7 +33,7 @@ Tenho familiaridade com arquiteturas legadas e com migração/modernização inc
 ## Projetos
 
 - shopping-cart — repositório pessoal para estudos de arquitetura e padrões. https://github.com/leandro-wrocha/shopping-cart
-- zendule — projeto pessoal para criação de um negócio/serviço. https://github.com/leandro-wrocha/zendule
+- zendule — projeto pessoal para criação de um negócio/serviço.
 
 ## Contato
 
