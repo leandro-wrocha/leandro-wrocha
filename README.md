@@ -1,5 +1,3 @@
-<h1>Olá 👋, me chamo Leandro Rocha</h1>
-
 # Olá 👋 — eu sou o Leandro Rocha
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/leandro-wrocha/)
